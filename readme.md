@@ -1,0 +1,1 @@
+Este es el primer taller de la asignatura tendencias tecnologicas, fue realizado en python dado que este es el enfoque de la materia. Solo falta el punto numero 6 y los extra
