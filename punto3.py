@@ -1,4 +1,4 @@
-dia = input("Por favor ingrese el nombre de un dia de la semana\n").lower()
+dia = input("Por favor ingrese el nombre de un dia de la semana\nLunes\nMartes\nMiercoles\nJueves\nViernes\nSabado\nDomingo\n").lower()
 
 if(dia == "lunes"):
     print("Es lunes, el comienzo de la semana, y hay que trabajar :c")
