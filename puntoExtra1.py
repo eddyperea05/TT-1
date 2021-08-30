@@ -1,9 +1,8 @@
 pos = 0
 neg = 0
 contP = 0
-
-for i in range (6):
-    num = int(input("Ingrese un numero (" + str(i+1) +"/6)\n"))
+for i in range(6):
+    num = int(input("Ingrese un numero (" + str(i+1) + "/6)\n"))
     if(num >= 0):
         pos += num
         contP += 1

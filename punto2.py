@@ -3,5 +3,5 @@ num2 = int(input("Por favor ingrese un segundo numero\n"))
 
 if num1 > num2:
     print("El primer numero es mayor")
-else:
+elif num1 < num2:
     print("El segundo numero es mayor")
